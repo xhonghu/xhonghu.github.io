@@ -6,5 +6,11 @@ permalink: https://ieeexplore.ieee.org/document/10896751
 excerpt: 'Published in TCSVT (CCF B, 中科院1区)'
 date: 2025-2-20
 venue: 'Journal 1'
-citation: '...'
+citation: '@article{wei2025cross,
+  title={Cross-Modal Adaptive Prototype Learning for Continuous Sign Language Recognition},
+  author={Wei, Dong and Yang, Xu-Hua and Weng, Yiyang and Lin, Xuanyu and Hu, Hongxiang and Liu, Sheng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
+}'
 ---
