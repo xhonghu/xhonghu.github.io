@@ -2,7 +2,7 @@
 title: "Cross-Modal Adaptive Prototype Learning for Continuous Sign Language Recognition"
 collection: publications
 category: manuscripts
-excerpt: '(CCF B, 中科院1区)'
+excerpt: '(CCF B, 中科院1区TOP)'
 date: 2025-2-20
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology publication information （TCSVT）'
 paperurl: 'https://ieeexplore.ieee.org/document/10896751'
