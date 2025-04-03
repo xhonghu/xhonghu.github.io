@@ -16,4 +16,5 @@ I am a third-year Master's and PhD student from [ZHEJIANG UNIVERSITY OF TECHNOLO
 - *2022-now*, PhD candidate in Computer Science and Technology, Zhejiang University of Technology
 - *2018-2022*, BSc in School of Computer Science, Hefei Normal University
 
-url: /publications/ 
+# 📝 Publications 
+- [Cross-Modal Adaptive Prototype Learning for Continuous Sign Language Recognition]([https://arxiv.org/abs/2410.06558](https://ieeexplore.ieee.org/document/10896751)). Dong Wei, Xu-Hua Yang, Yi-Yang Weng, Xuan-Yu Lin, **Hong-xiang Hu**, Sheng Liu. **<i>IEEE Transactions on Circuits and Systems for Video Technology publication information （TCSVT）</i>**.
