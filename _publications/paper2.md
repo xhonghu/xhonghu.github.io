@@ -5,6 +5,6 @@ category: manuscripts
 excerpt: '(CCF C, 中科院2区)'
 date: 2025-3-24
 venue: 'Neurocomputing'
-paper url: 'http://academicpages.github.io/files/slides2.pdf'
+paper url: '[http://academicpages.github.io/files/slides2.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231225008021)'
 citation: '...'
 ---
