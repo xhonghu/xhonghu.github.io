@@ -23,7 +23,7 @@ I am a third-year student in the Combined Master's and PhD Program from [ZHEJIAN
   Dong Wei, Xu-Hua Yang, Yi-Yang Weng, Xuan-Yu Lin, **Hong-xiang Hu**, Sheng Liu.<br>
   **<i>IEEE Transactions on Circuits and Systems for Video Technology（TCSVT）(中科院一区TOP CCFB)</i>**.
 
-- [ACMC: Adaptive Cross-modal Multi-grained Contrastive Learning for Continuous Sign Language Recognition]().<br>
+- [ACMC: Adaptive Cross-modal Multi-grained Contrastive Learning for Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0262885625002100?dgcid=coauthor).<br>
   Xu-Hua Yang, **Hong-xiang Hu**, XuanYu Lin. .<br>
   **<i>Image and Vision Computing(中科院二区 CCFC)</i>**.
   
