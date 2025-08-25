@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIANG UNIVERSITY OF TECHNOLOGY](https://www.zjut.edu.cn/), currently in the School of Computer Science and Technology. My research interests include scene graph generation, video understanding, and sign language recognition and translation.
+I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIANG UNIVERSITY OF TECHNOLOGY](https://www.zjut.edu.cn/), currently in the School of Computer Science and Technology. I am supervised by Professor Xu-Hua Yang. My research interests include scene graph generation, video understanding, and sign language recognition and translation.
 
 # 📖 Educations
 - *2022-now*, PhD candidate in Computer Science and Technology, Zhejiang University of Technology
