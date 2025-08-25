@@ -20,11 +20,11 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
   **<i>Neurocomputing(中科院二区 CCFC)</i>**.
 
 - [ACMC: Adaptive Cross-modal Multi-grained Contrastive Learning for Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0262885625002100?dgcid=coauthor).<br>
-  Xu-Hua Yang, **Hong-xiang Hu**, XuanYu Lin. .<br>
+  Xu-Hua Yang, **Hong-xiang Hu**, XuanYu Lin.<br>
   **<i>Image and Vision Computing(中科院二区 CCFC)</i>**.
 
 - [Part-Wise Graph Fourier Learning for Skeleton-Based Continuous Sign Language Recognition](https://www.mdpi.com/2313-433X/11/8/286).<br>
-  Dong Wei, **Hong-xiang Hu**, Gang-Feng Ma. .<br>
+  Dong Wei, **Hong-xiang Hu**, Gang-Feng Ma.<br>
   **<i>Journal of Imaging (中科院三区)</i>**.
 
 - [Cross-Modal Adaptive Prototype Learning for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10896751).<br>
