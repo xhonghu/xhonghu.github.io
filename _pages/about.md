@@ -17,9 +17,9 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
 # 📝 Publications 
 2026
 ------
-- [Cross-Modal Adaptive Prototype Learning for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10896751).<br>
-  Dong Wei, Xu-Hua Yang, Yi-Yang Weng, Xuan-Yu Lin, **Hong-xiang Hu**, Sheng Liu.<br>
-  **<i>IEEE Transactions on Circuits and Systems for Video Technology（TCSVT）(中科院一区TOP CCFB)</i>**.
+- [Causality-inspired multi-grained cross-modal sign language retrieval](https://www.sciencedirect.com/science/article/pii/S1077314225003546).<br>
+  Xu-Hua Yang, Dong Wei, Wangjie Li, **Hong-xiang Hu**.<br>
+  **<i>Computer Vision and Image Understanding（CVIU）(中科院三区 CCFB)</i>**.
 
 2025
 ------
@@ -34,10 +34,10 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
 - [Part-Wise Graph Fourier Learning for Skeleton-Based Continuous Sign Language Recognition](https://www.mdpi.com/2313-433X/11/8/286).<br>
   Dong Wei, **Hong-xiang Hu**, Gang-Feng Ma.<br>
   **<i>Journal of Imaging (中科院三区)</i>**.
-
-- [Causality-inspired multi-grained cross-modal sign language retrieval](https://www.sciencedirect.com/science/article/pii/S1077314225003546).<br>
-  Xu-Hua Yang, Dong Wei, Wangjie Li, **Hong-xiang Hu**.<br>
-  **<i>Computer Vision and Image Understanding（CVIU）(中科院三区 CCFB)</i>**.
+  
+- [Cross-Modal Adaptive Prototype Learning for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10896751).<br>
+  Dong Wei, Xu-Hua Yang, Yi-Yang Weng, Xuan-Yu Lin, **Hong-xiang Hu**, Sheng Liu.<br>
+  **<i>IEEE Transactions on Circuits and Systems for Video Technology（TCSVT）(中科院一区TOP CCFB)</i>**.
 
   
 
