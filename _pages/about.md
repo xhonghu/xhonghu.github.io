@@ -15,6 +15,14 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
 - *2018-2022*, BSc in School of Computer Science, Hefei Normal University
 
 # 📝 Publications 
+2026
+------
+- [Cross-Modal Adaptive Prototype Learning for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10896751).<br>
+  Dong Wei, Xu-Hua Yang, Yi-Yang Weng, Xuan-Yu Lin, **Hong-xiang Hu**, Sheng Liu.<br>
+  **<i>IEEE Transactions on Circuits and Systems for Video Technology（TCSVT）(中科院一区TOP CCFB)</i>**.
+
+2025
+------
 - [Scene Graph Generation based on Lightweight Entity Pair Object Detection and Relation Classification Ensemble](https://www.sciencedirect.com/science/article/abs/pii/S0925231225008021).<br>
   **Hong-xiang Hu**, Xu-Hua Yang, Yu-Yong Zhao.<br>
   **<i>Neurocomputing(中科院二区 CCFC)</i>**.
@@ -30,10 +38,6 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
 - [Causality-inspired multi-grained cross-modal sign language retrieval](https://www.sciencedirect.com/science/article/pii/S1077314225003546).<br>
   Xu-Hua Yang, Dong Wei, Wangjie Li, **Hong-xiang Hu**.<br>
   **<i>Computer Vision and Image Understanding（CVIU）(中科院三区 CCFB)</i>**.
-
-- [Cross-Modal Adaptive Prototype Learning for Continuous Sign Language Recognition](https://ieeexplore.ieee.org/document/10896751).<br>
-  Dong Wei, Xu-Hua Yang, Yi-Yang Weng, Xuan-Yu Lin, **Hong-xiang Hu**, Sheng Liu.<br>
-  **<i>IEEE Transactions on Circuits and Systems for Video Technology（TCSVT）(中科院一区TOP CCFB)</i>**.
 
   
 
