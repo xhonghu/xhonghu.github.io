@@ -26,7 +26,7 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
 ------
 - [Scene Graph Generation based on Lightweight Entity Pair Object Detection and Relation Classification Ensemble](https://www.sciencedirect.com/science/article/abs/pii/S0925231225008021).<br>
   **Hong-xiang Hu**, Xu-Hua Yang, Yu-Yong Zhao.<br>
-  **<i>Neurocomputing(中科院二区 CCFC)</i>**.
+  **<i>Neurocomputing(中科院二区TOP CCFC)</i>**.
 
 - [ACMC: Adaptive Cross-modal Multi-grained Contrastive Learning for Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0262885625002100?dgcid=coauthor).<br>
   Xu-Hua Yang, **Hong-xiang Hu**, XuanYu Lin.<br>
