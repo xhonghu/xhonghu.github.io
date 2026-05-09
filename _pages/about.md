@@ -18,6 +18,10 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
 
 2026
 ------
+- [SignDAGC: Dynamic Axial Graph Structure for Continuous Sign Language Recognition and Translation]().<br>
+  **Hong-xiang Hu**, Xu-Hua Yang, Dong Wei, Gang-Feng Ma, Sheng Liu, Yuan Feng, Yong Wang.<br>
+  **<i>Pattern Recognition（PR）(中科院一区TOP CCFB)</i>**.
+  
 - [Causality-inspired multi-grained cross-modal sign language retrieval](https://www.sciencedirect.com/science/article/pii/S1077314225003546).<br>
   Xu-Hua Yang, Dong Wei, Wangjie Li, **Hong-xiang Hu**.<br>
   **<i>Computer Vision and Image Understanding（CVIU）(中科院三区 CCFB)</i>**.
