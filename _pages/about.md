@@ -18,7 +18,7 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
 
 2026
 ------
-- [SignDAGC: Dynamic Axial Graph Structure for Continuous Sign Language Recognition and Translation]().<br>
+- [SignDAGC: Dynamic Axial Graph Structure for Continuous Sign Language Recognition and Translation](https://doi.org/10.1016/j.patcog.2026.113947).<br>
   **Hong-xiang Hu**, Xu-Hua Yang, Dong Wei, Gang-Feng Ma, Sheng Liu, Yuan Feng, Yong Wang.<br>
   **<i>Pattern Recognition（PR）(中科院一区TOP CCFB)</i>**.
   
