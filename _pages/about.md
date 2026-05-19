@@ -11,11 +11,9 @@ redirect_from:
 I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIANG UNIVERSITY OF TECHNOLOGY](https://www.zjut.edu.cn/), currently in the School of Computer Science and Technology. I am supervised by Professor Xu-Hua Yang. My research interests include scene graph generation, video understanding, and sign language recognition and translation. 
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <!-- 在这个父 div 上添加 text-align: center -->
+        <div class="badge">This is my WeChat :</div>
         <div style="text-align: center;">
-            <div class="badge">This is my WeChat :</div>
-            <!-- 图片此时会自动跟随父容器居中 -->
-            <img src='images/WeChat.jpg' alt="sym" width="30%">
+            <img src='images/WeChat.jpg' alt="wechat" width="30%">
         </div>
     </div>
 </div>
