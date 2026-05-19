@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIANG UNIVERSITY OF TECHNOLOGY](https://www.zjut.edu.cn/), currently in the School of Computer Science and Technology. I am supervised by Professor Xu-Hua Yang. My research interests include scene graph generation, video understanding, and sign language recognition and translation. 
+I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIANG UNIVERSITY OF TECHNOLOGY](https://www.zjut.edu.cn/), currently in the School of Computer Science and Technology. I am supervised by Professor Xu-Hua Yang. My research interests include scene graph generation, video understanding, and sign language recognition and translation. That is my WeChat:
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <div class="badge">This is my WeChat :</div>
         <div style="text-align: center;">
             <img src='images/WeChat.jpg' alt="wechat" width="30%">
         </div>
