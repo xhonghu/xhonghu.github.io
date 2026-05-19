@@ -15,7 +15,7 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
         <div style="text-align: center;">
             <div class="badge">This is my WeChat :</div>
             <!-- 图片此时会自动跟随父容器居中 -->
-            <img src='images/WeChat.jpg' alt="sym" width="40%">
+            <img src='images/WeChat.jpg' alt="sym" width="30%">
         </div>
     </div>
 </div>
