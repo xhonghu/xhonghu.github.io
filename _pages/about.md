@@ -25,6 +25,10 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
 
 2026
 ------
+- [HNMA: Cross-modal hard negatives and multi-grained attention for text–video retrieval](https://www.sciencedirect.com/science/article/pii/S1077314226002857?dgcid=coauthor).<br>
+  Xu-Hua Yang, **Hong-xiang Hu**, Minzhi Qiao, Weiyi Ye<br>
+  **<i>Computer Vision and Image Understanding（CVIU）(中科院三区 CCFB)</i>**.
+  
 - [SignDAGC: Dynamic Axial Graph Structure for Continuous Sign Language Recognition and Translation](https://doi.org/10.1016/j.patcog.2026.113947).<br>
   **Hong-xiang Hu**, Xu-Hua Yang, Dong Wei, Gang-Feng Ma, Sheng Liu, Yuan Feng, Yong Wang.<br>
   **<i>Pattern Recognition（PR）(中科院一区TOP CCFB)</i>**.
