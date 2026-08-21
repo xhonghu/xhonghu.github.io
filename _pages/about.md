@@ -25,6 +25,10 @@ I am a fourth-year student in the Combined Master's and PhD Program from [ZHEJIA
 
 2026
 ------
+- [SignMamba: Sparse Spatial–Temporal State-Space Modeling for Continuous Sign Language Recognition](https://www.sciencedirect.com/science/article/pii/S0893608026009883).<br>
+  Xu-Hua Yang, Gang Wang, **Hong-xiang Hu**, Dong Wei, Zhi-Wei Chen, Sheng Liu, Yuan Feng <br>
+  **<i>Neural Networks(中科院二区TOP CCFB)</i>**.
+  
 - [HNMA: Cross-modal hard negatives and multi-grained attention for text–video retrieval](https://www.sciencedirect.com/science/article/pii/S1077314226002857?dgcid=coauthor).<br>
   Xu-Hua Yang, **Hong-xiang Hu**, Minzhi Qiao, Weiyi Ye<br>
   **<i>Computer Vision and Image Understanding（CVIU）(中科院三区 CCFB)</i>**.
